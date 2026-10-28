@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "purpose": "本工具原创错误测试数据，故意包含结构异常；不是正式 HSK 命题或合格试卷。",
+    "level_verified": false
+  },
+  "options": [
+    {"id": "A", "text": "提醒"},
+    {"id": "A", "text": "安排"},
+    {"id": "C", "text": " 提醒 "}
+  ],
+  "items": [
+    {"id": "T01", "text": "请记得带钥匙。", "answer_id": "Z"},
+    {"id": "T01", "text": "我____今天____。", "answer_id": ""}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "blank_marker": "____",
+  "expected_options": 3,
+  "expected_items": 2,
+  "require_distinct_answers": true,
+  "min_context_chars": 1,
+  "max_context_chars": 60,
+  "sort_options_by_length": true
+}

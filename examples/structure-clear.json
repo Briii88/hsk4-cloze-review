@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "purpose": "本工具原创测试数据，仅验证检查行为；不是正式 HSK 命题或合格试卷。",
+    "level_verified": false
+  },
+  "options": [
+    {"id": "A", "text": "提醒"},
+    {"id": "B", "text": "保护"},
+    {"id": "C", "text": "安排"}
+  ],
+  "items": [
+    {"id": "T01", "text": "出门前，请____我带上钥匙。", "answer_id": "A"},
+    {"id": "T02", "text": "周末的活动由班长来____。", "answer_id": "C"}
+  ]
+}

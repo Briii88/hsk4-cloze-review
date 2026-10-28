@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "purpose": "本工具原创语义边界测试数据，结构无异常但存在自然双解；不是正式 HSK 命题或合格试卷。",
+    "level_verified": false
+  },
+  "options": [
+    {"id": "A", "text": "开心"},
+    {"id": "B", "text": "高兴"},
+    {"id": "C", "text": "方便"}
+  ],
+  "items": [
+    {"id": "T01", "text": "收到朋友的来信，她很____。", "answer_id": "A"}
+  ]
+}
